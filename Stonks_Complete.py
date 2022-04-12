@@ -7,7 +7,6 @@ Created on Wed Nov  3 14:47:55 2021
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import math
 from sklearn.preprocessing import MinMaxScaler
 from stonks_open import *
